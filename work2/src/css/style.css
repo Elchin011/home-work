@@ -14,7 +14,7 @@ body{
     width: 300px;
     border: 1px solid white;
     color: white;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(128, 128, 128, 0.279);
     margin: 0 auto;
     margin-top: 200px;
     border-radius: 12px;
@@ -51,6 +51,7 @@ body{
     position: absolute;
     top: 450px;
     left: 425px;
+    
 }
 .name2{
     height: 200px;
@@ -72,6 +73,7 @@ body{
 .footer .hero {    
     width: 50%;  
     padding-right: 60px; 
+    border-right: 1px solid black;
 
 }
 .footer .banner{
